@@ -27,4 +27,4 @@ def file_name(file_dir,saveTxt):
 
 if __name__ == '__main__':
 
-    file_name("src",'readResult.txt')
+    file_name("src",'readResult.txt') # src is directory, readResult.txt is generate file,you can change it.
